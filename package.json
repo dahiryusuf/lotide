@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@dahiryusuf/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a copy of the lotide library that was created with simpler code",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/dahiryusuf/lotide.git"
   },
-  "author": "",
+  "author": {
+    "name" : "Dahir Yusuf",
+    "email" : "dahir.yusuf@hotmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dahiryusuf/lotide/issues"
