@@ -40,4 +40,3 @@ const countLetters = function(sentence) {
 }
 
 countLetters("hello")
-assertArrayEqual(countLetters("hello").e, [1])
