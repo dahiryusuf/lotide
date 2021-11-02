@@ -41,5 +41,5 @@ assertArrayEqual(results1[0], words[0][0])
 assertArrayEqual(results2[1], words[1][1])
 assertArrayEqual(results3[1], words[1].length)
 
-
+module.exports = map;
 

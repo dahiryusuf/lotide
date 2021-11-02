@@ -1,3 +1,5 @@
+const { letterPositions } = require(".");
+
 const eqArrays = function(arr, arr2) {
   let x = 0;
   for (let i = 0; i < arr.length; i++) {
@@ -40,3 +42,5 @@ const countLetters = function(sentence) {
 }
 
 countLetters("hello")
+
+module.exports = countLetters;

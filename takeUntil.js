@@ -50,4 +50,4 @@ console.log(results2);
 assertArrayEqual(results1[0], data1[0])
 assertArrayEqual(results2[1], data2[1])
 
-
+module.exports = takeUntil;
